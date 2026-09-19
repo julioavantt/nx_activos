@@ -3945,7 +3945,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "one"
  },
  {
   "market_id": 100383,
@@ -3973,7 +3973,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "bad"
  },
  {
   "market_id": 100315,
@@ -4001,7 +4001,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "one"
  },
  {
   "market_id": 100210,
@@ -4029,7 +4029,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "bad"
  },
  {
   "market_id": 100057,
@@ -4057,7 +4057,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "bad"
  },
  {
   "market_id": 100390,
@@ -4085,7 +4085,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "bad"
  },
  {
   "market_id": 100350,
@@ -4113,7 +4113,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "AMEX",
-  "status": "virgen"
+  "status": "one"
  },
  {
   "market_id": 100493,
@@ -4141,7 +4141,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "AMEX",
-  "status": "virgen"
+  "status": "bad"
  },
  {
   "market_id": 100073,
