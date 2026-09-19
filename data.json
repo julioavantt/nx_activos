@@ -25,7 +25,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "bad"
  },
  {
   "market_id": 100032,
@@ -333,7 +333,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "one"
  },
  {
   "market_id": 100241,
@@ -5429,7 +5429,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "bad"
  },
  {
   "market_id": 100121,
@@ -5961,7 +5961,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "bad"
  },
  {
   "market_id": 100200,

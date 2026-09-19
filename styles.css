@@ -162,6 +162,10 @@ li.bad {
  background: black;
 }
 
+li.one {
+ background: #3e414f;
+}
+
 /* Glow sutil en el borde al pasar el mouse */
 li:hover {
  transform: translateY(-5px);
