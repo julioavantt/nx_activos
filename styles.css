@@ -1,0 +1,187 @@
+/* 1. Reset Global y Variables de Diseño Futurista */
+:root {
+ --bg-dark: #0a0b10;
+ --card-bg: #121420;
+ --accent-cyan: #00f0ff;
+ --accent-purple: #7000ff;
+ --text-main: #f3f4f6;
+ --text-muted: #8a8f98;
+ --border-glow: rgba(0, 240, 255, 0.15);
+}
+
+* {
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+
+a {
+ color: inherit; /* 1. Hereda el color del texto de su elemento padre */
+ text-decoration: none; /* 2. Quita el subrayado por defecto */
+ cursor: pointer; /* 3. Mantiene la mano (cursor) al pasar el mouse */
+}
+
+/* Opcional: Asegura que no cambie de color si ya fue visitado */
+a:visited {
+ color: inherit;
+}
+
+body {
+ font-family:
+  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+  sans-serif;
+ background-color: var(--bg-dark);
+ color: var(--text-main);
+ overflow-x: hidden;
+ line-height: 1.6;
+}
+
+/* Fondo decorativo de sutiles líneas de silicio */
+body::before {
+ content: "";
+ position: fixed;
+ top: 0;
+ left: 0;
+ width: 100vw;
+ height: 100vh;
+ background:
+  radial-gradient(
+   circle at 80% 20%,
+   rgba(112, 0, 255, 0.15) 0%,
+   transparent 50%
+  ),
+  radial-gradient(circle at 10% 80%, rgba(0, 240, 255, 0.1) 0%, transparent 40%);
+ z-index: -1;
+}
+
+/* 2. Navegación Cyber-Minimalista */
+header {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 1.5rem 4rem;
+ border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+ backdrop-filter: blur(12px);
+ position: sticky;
+ top: 0;
+ z-index: 100;
+}
+
+header .logo {
+ font-size: 1.4rem;
+ font-weight: 800;
+ letter-spacing: 0.15em;
+ text-transform: uppercase;
+ background: linear-gradient(45deg, var(--accent-cyan), #ffffff);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+
+header nav a {
+ color: var(--text-muted);
+ text-decoration: none;
+ margin-left: 2rem;
+ font-size: 0.9rem;
+ transition: color 0.3s;
+}
+
+header nav a:hover {
+ color: var(--accent-cyan);
+}
+
+main {
+ max-width: 1200px;
+ margin: 4rem auto 2rem;
+ padding: 0 2rem 6rem;
+}
+
+ul {
+ list-style: none;
+ display: grid;
+ grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+ gap: 2rem;
+}
+
+/* 5. Tarjetas Tecnológicas con Efecto de Cristal y Neón */
+li {
+ background: var(--card-bg);
+ border: 1px solid rgba(255, 255, 255, 0.03);
+ padding: 2rem 2rem;
+ border-radius: 16px;
+ position: relative;
+ overflow: hidden;
+ transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+ cursor: pointer;
+}
+
+/* Glow sutil en el borde al pasar el mouse */
+li:hover {
+ transform: translateY(-5px);
+ border-color: rgba(0, 240, 255, 0.3);
+ box-shadow: 0 20px 40px rgba(0, 240, 255, 0.05);
+}
+
+/* Indicador tipo "pin" de silicio */
+li::before {
+ content: "";
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 4px;
+ height: 100%;
+ background: linear-gradient(
+  to bottom,
+  var(--accent-cyan),
+  var(--accent-purple)
+ );
+ opacity: 0.3;
+ transition: opacity 0.3s;
+}
+
+li:hover::before {
+ opacity: 1;
+}
+
+li h3 {
+ font-size: 1.2rem;
+ color: #ffffff;
+ font-weight: 600;
+ margin-bottom: 0.6rem;
+ letter-spacing: -0.01em;
+ height: 60px;
+ line-height: 29px;
+}
+
+li h4 {
+ font-size: 0.8rem;
+ color: var(--accent-cyan);
+ font-weight: 500;
+ text-transform: uppercase;
+ letter-spacing: 0.15em;
+}
+
+li::after {
+ content: "VIEW";
+ position: absolute;
+ bottom: 1.3rem;
+ right: 1.3rem;
+ font-size: 0.65rem;
+
+ /* Color de texto y borde rosáceo sutil por defecto */
+ color: rgba(244, 114, 182, 0.7); /* Rosa medio translúcido */
+ border: 1px solid rgba(244, 114, 182, 0.3); /* Borde haciendo juego */
+
+ padding: 0.3rem 0.7rem;
+ border-radius: 4px;
+ font-weight: 700;
+ letter-spacing: 0.05em;
+ transition: all 0.7s ease;
+}
+
+/* Efecto opcional: se enciende al 100% de brillo cuando pasas el mouse por la tarjeta */
+li:hover::after {
+ color: #ffffff;
+ background: #f472b6; /* Rosa sólido al hacer hover */
+ border-color: #f472b6;
+ box-shadow: 0 0 8px rgba(244, 114, 182, 0.5);
+}
