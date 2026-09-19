@@ -15,7 +15,7 @@ fetch("./data.json")
 
    let ul = document.createElement("ul");
 
-   const limit = 34;
+   const limit = 33;
 
    ul.innerHTML = data
     .filter((d) => d.sector === s)
