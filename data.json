@@ -25,7 +25,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "bad"
+  "status": "bad",
+  "id": 1
  },
  {
   "market_id": 100032,
@@ -53,7 +54,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 2
  },
  {
   "market_id": 100296,
@@ -71,7 +73,7 @@
   "date_created": "2026-04-08T14:14:03.953Z",
   "market_status": "OPEN",
   "pe_ratio": 110.84,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 95.234,
   "todays_low": 93.376,
   "sector": "Communication Services",
@@ -81,7 +83,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 3
  },
  {
   "market_id": 100056,
@@ -93,13 +96,13 @@
   "usd_course": "71.87500000",
   "today_trend_percent": -4.769791,
   "prev_day_trend_percent": -4.73,
-  "market_cap": 3.13586297e11,
+  "market_cap": 313586297000,
   "today_volume": 48120037,
   "prev_day_volume": 28167550.107729,
   "date_created": "2026-04-08T13:34:01.616Z",
   "market_status": "OPEN",
   "pe_ratio": 22.97,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 75.72,
   "todays_low": 70.23,
   "sector": "Communication Services",
@@ -109,7 +112,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 4
  },
  {
   "market_id": 100352,
@@ -127,7 +131,7 @@
   "date_created": "2026-04-08T14:18:58.859Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 63.679,
   "todays_low": 57.847,
   "sector": "Communication Services",
@@ -137,7 +141,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 5
  },
  {
   "market_id": 100218,
@@ -165,7 +170,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 6
  },
  {
   "market_id": 100254,
@@ -182,7 +188,7 @@
   "prev_day_volume": 24732507.553902,
   "date_created": "2026-04-08T14:10:08.096Z",
   "market_status": "OPEN",
-  "pe_ratio": 93.0,
+  "pe_ratio": 93,
   "dividend_yield": 0.0024,
   "todays_high": 28.234,
   "todays_low": 27.908,
@@ -193,7 +199,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 7
  },
  {
   "market_id": 100118,
@@ -221,7 +228,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 8
  },
  {
   "market_id": 100129,
@@ -249,7 +257,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 9
  },
  {
   "market_id": 100035,
@@ -261,13 +270,13 @@
   "usd_course": "2.70500000",
   "today_trend_percent": 0.371057,
   "prev_day_trend_percent": 0.18,
-  "market_cap": 2418958569.0,
+  "market_cap": 2418958569,
   "today_volume": 10782491,
   "prev_day_volume": 25999904.777195,
   "date_created": "2026-04-08T13:30:42.349Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 2.75,
   "todays_low": 2.655,
   "sector": "Communication Services",
@@ -277,7 +286,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 10
  },
  {
   "market_id": 100042,
@@ -289,13 +299,13 @@
   "usd_course": "897.04500000",
   "today_trend_percent": 0.606186,
   "prev_day_trend_percent": 0.13,
-  "market_cap": 3.9643900726e11,
+  "market_cap": 396439007260,
   "today_volume": 1320455,
   "prev_day_volume": 2322546.936053,
   "date_created": "2026-04-08T13:31:30.615Z",
   "market_status": "OPEN",
   "pe_ratio": 44.86,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 898.042,
   "todays_low": 890.15,
   "sector": "Consumer Discretionary",
@@ -305,7 +315,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 11
  },
  {
   "market_id": 100202,
@@ -323,7 +334,7 @@
   "date_created": "2026-04-08T14:05:49.714Z",
   "market_status": "OPEN",
   "pe_ratio": 19.21,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 548.045,
   "todays_low": 535.609,
   "sector": "Consumer Discretionary",
@@ -333,7 +344,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "one"
+  "status": "one",
+  "id": 12
  },
  {
   "market_id": 100241,
@@ -361,7 +373,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 13
  },
  {
   "market_id": 100257,
@@ -389,7 +402,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 14
  },
  {
   "market_id": 100078,
@@ -417,7 +431,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 15
  },
  {
   "market_id": 100014,
@@ -435,7 +450,7 @@
   "date_created": "2026-04-08T13:26:15.940Z",
   "market_status": "OPEN",
   "pe_ratio": 20.03,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 255.361,
   "todays_low": 250.268,
   "sector": "Consumer Discretionary",
@@ -445,7 +460,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 16
  },
  {
   "market_id": 100055,
@@ -473,7 +489,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 17
  },
  {
   "market_id": 100348,
@@ -485,13 +502,13 @@
   "usd_course": "193.62500000",
   "today_trend_percent": -3.647582,
   "prev_day_trend_percent": -3.29,
-  "market_cap": 8334625396.0,
+  "market_cap": 8334625396,
   "today_volume": 457420,
   "prev_day_volume": 1151631.458785,
   "date_created": "2026-04-08T14:18:41.133Z",
   "market_status": "OPEN",
   "pe_ratio": 17.11,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 201.113,
   "todays_low": 192.592,
   "sector": "Consumer Discretionary",
@@ -501,7 +518,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 18
  },
  {
   "market_id": 100112,
@@ -513,7 +531,7 @@
   "usd_course": "192.64000000",
   "today_trend_percent": -0.793078,
   "prev_day_trend_percent": -0.77,
-  "market_cap": 1.0895107995e11,
+  "market_cap": 108951079950,
   "today_volume": 1426512,
   "prev_day_volume": 2339074.520518,
   "date_created": "2026-04-08T13:40:46.457Z",
@@ -529,7 +547,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 19
  },
  {
   "market_id": 100476,
@@ -557,7 +576,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 20
  },
  {
   "market_id": 100066,
@@ -585,7 +605,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 21
  },
  {
   "market_id": 100489,
@@ -597,13 +618,13 @@
   "usd_course": "134.38500000",
   "today_trend_percent": -3.459051,
   "prev_day_trend_percent": -2.33,
-  "market_cap": 5881404652.0,
+  "market_cap": 5881404652,
   "today_volume": 408756,
   "prev_day_volume": 889532.030413,
   "date_created": "2026-04-08T14:32:22.055Z",
   "market_status": "OPEN",
   "pe_ratio": 10.97,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 142.05,
   "todays_low": 134.529,
   "sector": "Consumer Discretionary",
@@ -613,7 +634,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 22
  },
  {
   "market_id": 100312,
@@ -631,7 +653,7 @@
   "date_created": "2026-04-08T14:15:19.948Z",
   "market_status": "OPEN",
   "pe_ratio": 13.31,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 114.526,
   "todays_low": 112.946,
   "sector": "Consumer Discretionary",
@@ -641,7 +663,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 23
  },
  {
   "market_id": 100068,
@@ -654,7 +677,7 @@
   "today_trend_percent": 0.896461,
   "prev_day_trend_percent": 0.27,
   "market_cap": 847244761076,
-  "today_volume": 1.413639e7,
+  "today_volume": 14136390,
   "prev_day_volume": 19216189.65847,
   "date_created": "2026-04-08T13:35:43.610Z",
   "market_status": "OPEN",
@@ -669,7 +692,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 24
  },
  {
   "market_id": 100294,
@@ -687,7 +711,7 @@
   "date_created": "2026-04-08T14:13:54.659Z",
   "market_status": "OPEN",
   "pe_ratio": 7.76,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 100.869,
   "todays_low": 97.868,
   "sector": "Consumer Discretionary",
@@ -697,7 +721,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 25
  },
  {
   "market_id": 100065,
@@ -709,7 +734,7 @@
   "usd_course": "95.63500000",
   "today_trend_percent": -1.670779,
   "prev_day_trend_percent": -1.47,
-  "market_cap": 1.102038e11,
+  "market_cap": 110203800000,
   "today_volume": 5749654,
   "prev_day_volume": 6641992.029089,
   "date_created": "2026-04-08T13:35:27.706Z",
@@ -725,7 +750,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 26
  },
  {
   "market_id": 100207,
@@ -737,7 +763,7 @@
   "usd_course": "89.05500000",
   "today_trend_percent": -2.33591,
   "prev_day_trend_percent": -1.86,
-  "market_cap": 1.1545265521e11,
+  "market_cap": 115452655210,
   "today_volume": 6331678,
   "prev_day_volume": 7434654.983443,
   "date_created": "2026-04-08T14:06:14.769Z",
@@ -753,7 +779,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 27
  },
  {
   "market_id": 100408,
@@ -765,7 +792,7 @@
   "usd_course": "77.57000000",
   "today_trend_percent": 0.206691,
   "prev_day_trend_percent": -0.48,
-  "market_cap": 6180117742.0,
+  "market_cap": 6180117742,
   "today_volume": 675218,
   "prev_day_volume": 1646302.189312,
   "date_created": "2026-04-08T14:24:47.258Z",
@@ -781,7 +808,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 28
  },
  {
   "market_id": 100407,
@@ -793,13 +821,13 @@
   "usd_course": "75.73000000",
   "today_trend_percent": -0.831532,
   "prev_day_trend_percent": 0.04,
-  "market_cap": 6496468127.0,
+  "market_cap": 6496468127,
   "today_volume": 452050,
   "prev_day_volume": 835826.559662,
   "date_created": "2026-04-08T14:24:42.498Z",
   "market_status": "OPEN",
   "pe_ratio": 11.42,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 76.412,
   "todays_low": 75.194,
   "sector": "Consumer Discretionary",
@@ -809,7 +837,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 29
  },
  {
   "market_id": 100097,
@@ -827,7 +856,7 @@
   "date_created": "2026-04-08T13:38:37.678Z",
   "market_status": "OPEN",
   "pe_ratio": 30.23,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 66.504,
   "todays_low": 64.777,
   "sector": "Consumer Discretionary",
@@ -837,7 +866,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 30
  },
  {
   "market_id": 100444,
@@ -849,13 +879,13 @@
   "usd_course": "58.33500000",
   "today_trend_percent": 1.637773,
   "prev_day_trend_percent": -0.14,
-  "market_cap": 6206163640.0,
+  "market_cap": 6206163640,
   "today_volume": 1843274,
   "prev_day_volume": 3390415.144172,
   "date_created": "2026-04-08T14:28:12.947Z",
   "market_status": "OPEN",
   "pe_ratio": 60.52,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 58.48,
   "todays_low": 56.597,
   "sector": "Consumer Discretionary",
@@ -865,7 +895,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 31
  },
  {
   "market_id": 100409,
@@ -877,7 +908,7 @@
   "usd_course": "42.25000000",
   "today_trend_percent": 0.679137,
   "prev_day_trend_percent": 0.74,
-  "market_cap": 2535592000.0,
+  "market_cap": 2535592000,
   "today_volume": 680753,
   "prev_day_volume": 1247914.761782,
   "date_created": "2026-04-08T14:24:51.977Z",
@@ -893,7 +924,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 32
  },
  {
   "market_id": 100107,
@@ -905,13 +937,13 @@
   "usd_course": "33.10000000",
   "today_trend_percent": -1.546698,
   "prev_day_trend_percent": -1.27,
-  "market_cap": 4.240415718e10,
-  "today_volume": 8.89481e6,
+  "market_cap": 42404157180,
+  "today_volume": 8894810,
   "prev_day_volume": 9604874.933956,
   "date_created": "2026-04-08T13:40:16.688Z",
   "market_status": "OPEN",
   "pe_ratio": 29.87,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 33.719,
   "todays_low": 32.875,
   "sector": "Consumer Discretionary",
@@ -921,7 +953,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 33
  },
  {
   "market_id": 100033,
@@ -939,7 +972,7 @@
   "date_created": "2026-04-08T13:30:26.706Z",
   "market_status": "OPEN",
   "pe_ratio": 12.86,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 22.9,
   "todays_low": 22.341,
   "sector": "Consumer Discretionary",
@@ -949,7 +982,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 34
  },
  {
   "market_id": 100288,
@@ -961,13 +995,13 @@
   "usd_course": "4.92500000",
   "today_trend_percent": 1.025641,
   "prev_day_trend_percent": -0.41,
-  "market_cap": 2150471825.0,
+  "market_cap": 2150471825,
   "today_volume": 3483899,
   "prev_day_volume": 5996365.504423,
   "date_created": "2026-04-08T14:13:22.487Z",
   "market_status": "OPEN",
   "pe_ratio": 34.08,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 4.979,
   "todays_low": 4.855,
   "sector": "Consumer Discretionary",
@@ -977,7 +1011,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 35
  },
  {
   "market_id": 100303,
@@ -989,13 +1024,13 @@
   "usd_course": "1.58500000",
   "today_trend_percent": 3.934426,
   "prev_day_trend_percent": 5.32,
-  "market_cap": 88969878.0,
+  "market_cap": 88969878,
   "today_volume": 297036,
   "prev_day_volume": 160706.402677,
   "date_created": "2026-04-08T14:14:36.132Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 1.595,
   "todays_low": 1.505,
   "sector": "Consumer Discretionary",
@@ -1005,7 +1040,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 36
  },
  {
   "market_id": 100432,
@@ -1017,13 +1053,13 @@
   "usd_course": "1.07500000",
   "today_trend_percent": -0.921658,
   "prev_day_trend_percent": 0.93,
-  "market_cap": 128194226.0,
+  "market_cap": 128194226,
   "today_volume": 385471,
   "prev_day_volume": 660101.451464,
   "date_created": "2026-04-08T14:27:10.378Z",
   "market_status": "OPEN",
   "pe_ratio": 452.98,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 1.095,
   "todays_low": 1.065,
   "sector": "Consumer Discretionary",
@@ -1033,7 +1069,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 37
  },
  {
   "market_id": 100208,
@@ -1046,7 +1083,7 @@
   "today_trend_percent": -0.185127,
   "prev_day_trend_percent": -0.98,
   "market_cap": 109415525376,
-  "today_volume": 2.07757e6,
+  "today_volume": 2077570,
   "prev_day_volume": 3577016.82125,
   "date_created": "2026-04-08T14:06:19.927Z",
   "market_status": "OPEN",
@@ -1061,7 +1098,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 38
  },
  {
   "market_id": 100094,
@@ -1073,7 +1111,7 @@
   "usd_course": "210.24500000",
   "today_trend_percent": -0.59103,
   "prev_day_trend_percent": -0.42,
-  "market_cap": 4.1501640468e11,
+  "market_cap": 415016404680,
   "today_volume": 5428697,
   "prev_day_volume": 7392007.949055,
   "date_created": "2026-04-08T13:38:22.376Z",
@@ -1089,7 +1127,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 39
  },
  {
   "market_id": 100084,
@@ -1117,7 +1156,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 40
  },
  {
   "market_id": 100279,
@@ -1145,7 +1185,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 41
  },
  {
   "market_id": 100402,
@@ -1157,7 +1198,7 @@
   "usd_course": "50.91500000",
   "today_trend_percent": -2.898827,
   "prev_day_trend_percent": -1.93,
-  "market_cap": 7.728672e10,
+  "market_cap": 77286720000,
   "today_volume": 6774243,
   "prev_day_volume": 12239895.669286,
   "date_created": "2026-04-08T14:24:16.277Z",
@@ -1173,7 +1214,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 42
  },
  {
   "market_id": 100047,
@@ -1201,7 +1243,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 43
  },
  {
   "market_id": 100425,
@@ -1213,7 +1256,7 @@
   "usd_course": "1792.95000000",
   "today_trend_percent": -0.029272,
   "prev_day_trend_percent": 0.3,
-  "market_cap": 2.211904862e10,
+  "market_cap": 22119048620,
   "today_volume": 46131,
   "prev_day_volume": 69442.839133,
   "date_created": "2026-04-08T14:26:36.584Z",
@@ -1229,7 +1272,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 44
  },
  {
   "market_id": 100138,
@@ -1257,7 +1301,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 45
  },
  {
   "market_id": 100086,
@@ -1269,13 +1314,13 @@
   "usd_course": "945.31000000",
   "today_trend_percent": -0.81369,
   "prev_day_trend_percent": -0.69,
-  "market_cap": 2.7704085957e11,
+  "market_cap": 277040859570,
   "today_volume": 1456613,
   "prev_day_volume": 3288098.299296,
   "date_created": "2026-04-08T13:37:39.688Z",
   "market_status": "OPEN",
   "pe_ratio": 13.83,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 958.19,
   "todays_low": 940.187,
   "sector": "Financials",
@@ -1285,7 +1330,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 46
  },
  {
   "market_id": 100006,
@@ -1313,7 +1359,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 47
  },
  {
   "market_id": 100075,
@@ -1326,7 +1373,7 @@
   "today_trend_percent": -0.667442,
   "prev_day_trend_percent": -0.19,
   "market_cap": 336786562543,
-  "today_volume": 2.20221e6,
+  "today_volume": 2202210,
   "prev_day_volume": 4837672.106763,
   "date_created": "2026-04-08T13:36:33.733Z",
   "market_status": "OPEN",
@@ -1341,7 +1388,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 48
  },
  {
   "market_id": 100070,
@@ -1369,7 +1417,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 49
  },
  {
   "market_id": 100131,
@@ -1397,7 +1446,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 50
  },
  {
   "market_id": 100468,
@@ -1410,7 +1460,7 @@
   "today_trend_percent": 0.391698,
   "prev_day_trend_percent": 0.06,
   "market_cap": null,
-  "today_volume": 1.35289e6,
+  "today_volume": 1352890,
   "prev_day_volume": 2318819.950043,
   "date_created": "2026-04-08T14:30:16.271Z",
   "market_status": "OPEN",
@@ -1425,7 +1475,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 51
  },
  {
   "market_id": 100135,
@@ -1453,7 +1504,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 52
  },
  {
   "market_id": 100115,
@@ -1471,7 +1523,7 @@
   "date_created": "2026-04-08T13:41:01.995Z",
   "market_status": "OPEN",
   "pe_ratio": 16.35,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 204.83,
   "todays_low": 201.046,
   "sector": "Financials",
@@ -1481,7 +1533,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 53
  },
  {
   "market_id": 100028,
@@ -1499,7 +1552,7 @@
   "date_created": "2026-04-08T13:29:50.511Z",
   "market_status": "OPEN",
   "pe_ratio": 53.83,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 196.17,
   "todays_low": 173.798,
   "sector": "Financials",
@@ -1509,7 +1562,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 54
  },
  {
   "market_id": 100139,
@@ -1537,7 +1591,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 55
  },
  {
   "market_id": 100438,
@@ -1565,7 +1620,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 56
  },
  {
   "market_id": 100134,
@@ -1578,7 +1634,7 @@
   "today_trend_percent": -0.455729,
   "prev_day_trend_percent": -0.33,
   "market_cap": 103824703809,
-  "today_volume": 1.97421e6,
+  "today_volume": 1974210,
   "prev_day_volume": 5980399.293067,
   "date_created": "2026-04-08T13:42:47.373Z",
   "market_status": "OPEN",
@@ -1593,7 +1649,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 57
  },
  {
   "market_id": 100027,
@@ -1611,7 +1668,7 @@
   "date_created": "2026-04-14T10:28:36.317Z",
   "market_status": "OPEN",
   "pe_ratio": 8.48,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 151.948,
   "todays_low": 132.272,
   "sector": "Financials",
@@ -1621,7 +1678,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 58
  },
  {
   "market_id": 100467,
@@ -1649,7 +1707,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 59
  },
  {
   "market_id": 100041,
@@ -1677,7 +1736,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 60
  },
  {
   "market_id": 100217,
@@ -1690,7 +1750,7 @@
   "today_trend_percent": -0.588235,
   "prev_day_trend_percent": -0.33,
   "market_cap": 94135895547,
-  "today_volume": 1.70357e6,
+  "today_volume": 1703570,
   "prev_day_volume": 3223020.971659,
   "date_created": "2026-04-08T14:07:03.196Z",
   "market_status": "OPEN",
@@ -1705,7 +1765,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 61
  },
  {
   "market_id": 100025,
@@ -1723,7 +1784,7 @@
   "date_created": "2026-04-08T13:27:56.399Z",
   "market_status": "OPEN",
   "pe_ratio": 47.65,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 120.544,
   "todays_low": 109.746,
   "sector": "Financials",
@@ -1733,7 +1794,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 62
  },
  {
   "market_id": 100204,
@@ -1761,7 +1823,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 63
  },
  {
   "market_id": 100396,
@@ -1779,7 +1842,7 @@
   "date_created": "2026-04-08T14:23:47.578Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 95.115,
   "todays_low": 90.463,
   "sector": "Financials",
@@ -1789,7 +1852,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 64
  },
  {
   "market_id": 100431,
@@ -1807,7 +1871,7 @@
   "date_created": "2026-04-08T14:27:05.355Z",
   "market_status": "OPEN",
   "pe_ratio": 47.87,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 92.518,
   "todays_low": 85.084,
   "sector": "Financials",
@@ -1817,7 +1881,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 65
  },
  {
   "market_id": 100071,
@@ -1845,7 +1910,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 66
  },
  {
   "market_id": 100480,
@@ -1873,7 +1939,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 67
  },
  {
   "market_id": 100173,
@@ -1886,12 +1953,12 @@
   "today_trend_percent": 0.843134,
   "prev_day_trend_percent": 1.01,
   "market_cap": 23713965872,
-  "today_volume": 1.34236e6,
+  "today_volume": 1342360,
   "prev_day_volume": 3606677.986985,
   "date_created": "2026-04-08T13:46:54.219Z",
   "market_status": "OPEN",
   "pe_ratio": 12.29,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 71.29,
   "todays_low": 69.702,
   "sector": "Financials",
@@ -1901,7 +1968,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 68
  },
  {
   "market_id": 100265,
@@ -1929,7 +1997,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "BATS",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 69
  },
  {
   "market_id": 100419,
@@ -1957,7 +2026,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 70
  },
  {
   "market_id": 100394,
@@ -1985,7 +2055,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 71
  },
  {
   "market_id": 100079,
@@ -2013,7 +2084,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 72
  },
  {
   "market_id": 100280,
@@ -2041,7 +2113,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 73
  },
  {
   "market_id": 100157,
@@ -2069,7 +2142,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 74
  },
  {
   "market_id": 100363,
@@ -2097,7 +2171,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 75
  },
  {
   "market_id": 100349,
@@ -2109,13 +2184,13 @@
   "usd_course": "47.56500000",
   "today_trend_percent": -2.570667,
   "prev_day_trend_percent": -1.91,
-  "market_cap": 3759927557.0,
+  "market_cap": 3759927557,
   "today_volume": 568780,
   "prev_day_volume": 850509.707718,
   "date_created": "2026-04-08T14:18:45.410Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 49.25,
   "todays_low": 47.452,
   "sector": "Financials",
@@ -2125,7 +2200,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 76
  },
  {
   "market_id": 100376,
@@ -2138,12 +2214,12 @@
   "today_trend_percent": 6.080535,
   "prev_day_trend_percent": 5.2,
   "market_cap": 17133670102,
-  "today_volume": 2.676487e7,
+  "today_volume": 26764870,
   "prev_day_volume": 46463262.00421,
   "date_created": "2026-04-08T14:22:06.125Z",
   "market_status": "OPEN",
   "pe_ratio": 145.72,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 46.161,
   "todays_low": 43.401,
   "sector": "Financials",
@@ -2153,7 +2229,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 77
  },
  {
   "market_id": 100180,
@@ -2181,7 +2258,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 78
  },
  {
   "market_id": 100307,
@@ -2209,7 +2287,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 79
  },
  {
   "market_id": 100005,
@@ -2237,7 +2316,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 80
  },
  {
   "market_id": 100379,
@@ -2249,13 +2329,13 @@
   "usd_course": "31.85500000",
   "today_trend_percent": -2.747672,
   "prev_day_trend_percent": -0.22,
-  "market_cap": 9870467100.0,
+  "market_cap": 9870467100,
   "today_volume": 2467401,
   "prev_day_volume": 5595990.409016,
   "date_created": "2026-04-08T14:22:23.063Z",
   "market_status": "OPEN",
   "pe_ratio": 17.92,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 33.065,
   "todays_low": 31.333,
   "sector": "Financials",
@@ -2265,7 +2345,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 81
  },
  {
   "market_id": 100371,
@@ -2276,7 +2357,7 @@
   "trend_image_src": "https://static.nexo.com/charts2/stx-uup-1d.svg",
   "usd_course": "28.38500000",
   "today_trend_percent": -0.035217,
-  "prev_day_trend_percent": 0.0,
+  "prev_day_trend_percent": 0,
   "market_cap": null,
   "today_volume": 877733,
   "prev_day_volume": 1594272.118094,
@@ -2293,7 +2374,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 82
  },
  {
   "market_id": 100492,
@@ -2321,7 +2403,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 83
  },
  {
   "market_id": 100270,
@@ -2333,13 +2416,13 @@
   "usd_course": "23.46000000",
   "today_trend_percent": 7.787732,
   "prev_day_trend_percent": 7.43,
-  "market_cap": 8210665498.0,
+  "market_cap": 8210665498,
   "today_volume": 10837234,
   "prev_day_volume": 17163298.479421,
   "date_created": "2026-04-08T14:11:58.519Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 23.619,
   "todays_low": 21.863,
   "sector": "Financials",
@@ -2349,7 +2432,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 84
  },
  {
   "market_id": 100292,
@@ -2362,7 +2446,7 @@
   "today_trend_percent": 0.647249,
   "prev_day_trend_percent": 0.94,
   "market_cap": null,
-  "today_volume": 1.54642e6,
+  "today_volume": 1546420,
   "prev_day_volume": 3243666.471157,
   "date_created": "2026-04-08T14:13:44.448Z",
   "market_status": "OPEN",
@@ -2377,7 +2461,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "BATS",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 85
  },
  {
   "market_id": 100246,
@@ -2395,7 +2480,7 @@
   "date_created": "2026-04-08T14:09:29.823Z",
   "market_status": "OPEN",
   "pe_ratio": 33.96,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 17.055,
   "todays_low": 16.676,
   "sector": "Financials",
@@ -2405,7 +2490,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 86
  },
  {
   "market_id": 100088,
@@ -2417,13 +2503,13 @@
   "usd_course": "13.22500000",
   "today_trend_percent": 13.76344,
   "prev_day_trend_percent": 12.44,
-  "market_cap": 4496523817.0,
+  "market_cap": 4496523817,
   "today_volume": 58361768,
   "prev_day_volume": 70466460.138693,
   "date_created": "2026-04-08T13:37:51.212Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 13.285,
   "todays_low": 11.642,
   "sector": "Financials",
@@ -2433,7 +2519,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 87
  },
  {
   "market_id": 100472,
@@ -2445,13 +2532,13 @@
   "usd_course": "9.22500000",
   "today_trend_percent": 10.545236,
   "prev_day_trend_percent": 11.8,
-  "market_cap": 1794266969.0,
+  "market_cap": 1794266969,
   "today_volume": 9072685,
   "prev_day_volume": 8225879.298889,
   "date_created": "2026-04-08T14:30:35.327Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 9.275,
   "todays_low": 8.288,
   "sector": "Financials",
@@ -2461,7 +2548,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 88
  },
  {
   "market_id": 100361,
@@ -2473,13 +2561,13 @@
   "usd_course": "4.47500000",
   "today_trend_percent": -3.659849,
   "prev_day_trend_percent": -1.65,
-  "market_cap": 2411449434.0,
+  "market_cap": 2411449434,
   "today_volume": 1889572,
   "prev_day_volume": 3692487.265276,
   "date_created": "2026-04-08T14:19:44.305Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 4.749,
   "todays_low": 4.365,
   "sector": "Financials",
@@ -2489,7 +2577,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 89
  },
  {
   "market_id": 100021,
@@ -2507,7 +2596,7 @@
   "date_created": "2026-04-08T13:27:24.660Z",
   "market_status": "OPEN",
   "pe_ratio": 49.67,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 1864.644,
   "todays_low": 1771.449,
   "sector": "Industrials",
@@ -2517,7 +2606,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 90
  },
  {
   "market_id": 100104,
@@ -2545,7 +2635,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 91
  },
  {
   "market_id": 100043,
@@ -2557,7 +2648,7 @@
   "usd_course": "681.20500000",
   "today_trend_percent": -0.592471,
   "prev_day_trend_percent": -0.86,
-  "market_cap": 1.8486327123e11,
+  "market_cap": 184863271230,
   "today_volume": 560873,
   "prev_day_volume": 1232318.275342,
   "date_created": "2026-04-08T13:31:37.181Z",
@@ -2573,7 +2664,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 92
  },
  {
   "market_id": 100054,
@@ -2601,7 +2693,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 93
  },
  {
   "market_id": 100053,
@@ -2619,7 +2712,7 @@
   "date_created": "2026-04-08T13:33:47.157Z",
   "market_status": "OPEN",
   "pe_ratio": 19.75,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 540.94,
   "todays_low": 527.18,
   "sector": "Industrials",
@@ -2629,7 +2722,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 94
  },
  {
   "market_id": 100239,
@@ -2641,7 +2735,7 @@
   "usd_course": "468.35000000",
   "today_trend_percent": 0.884231,
   "prev_day_trend_percent": 1.18,
-  "market_cap": 7.998883289e10,
+  "market_cap": 79988832890,
   "today_volume": 318068,
   "prev_day_volume": 634396.202258,
   "date_created": "2026-04-08T14:08:57.344Z",
@@ -2657,7 +2751,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 95
  },
  {
   "market_id": 100323,
@@ -2675,7 +2770,7 @@
   "date_created": "2026-04-08T14:16:38.398Z",
   "market_status": "OPEN",
   "pe_ratio": 184.85,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 457.083,
   "todays_low": 447.047,
   "sector": "Industrials",
@@ -2685,7 +2780,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 96
  },
  {
   "market_id": 100128,
@@ -2697,7 +2793,7 @@
   "usd_course": "406.64500000",
   "today_trend_percent": 0.199588,
   "prev_day_trend_percent": 0.41,
-  "market_cap": 1.19131628e11,
+  "market_cap": 119131628000,
   "today_volume": 822872,
   "prev_day_volume": 1477342.93984,
   "date_created": "2026-04-08T13:42:16.370Z",
@@ -2713,7 +2809,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 97
  },
  {
   "market_id": 100403,
@@ -2741,7 +2838,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 98
  },
  {
   "market_id": 100076,
@@ -2769,7 +2867,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 99
  },
  {
   "market_id": 100015,
@@ -2787,7 +2886,7 @@
   "date_created": "2026-04-06T14:22:21.466Z",
   "market_status": "OPEN",
   "pe_ratio": 380.21,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 370.589,
   "todays_low": 360.9,
   "sector": "Industrials",
@@ -2797,7 +2896,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 100
  },
  {
   "market_id": 100274,
@@ -2809,7 +2909,7 @@
   "usd_course": "352.09500000",
   "today_trend_percent": -0.723227,
   "prev_day_trend_percent": -1.12,
-  "market_cap": 9.630483356e10,
+  "market_cap": 96304833560,
   "today_volume": 732672,
   "prev_day_volume": 1152094.45664,
   "date_created": "2026-04-08T14:12:17.889Z",
@@ -2825,7 +2925,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "one",
+  "id": 101
  },
  {
   "market_id": 100206,
@@ -2853,7 +2954,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 102
  },
  {
   "market_id": 100093,
@@ -2865,7 +2967,7 @@
   "usd_course": "282.17500000",
   "today_trend_percent": 4.609994,
   "prev_day_trend_percent": 4.62,
-  "market_cap": 3.3699325851e11,
+  "market_cap": 336993258510,
   "today_volume": 6286781,
   "prev_day_volume": 11273202.873651,
   "date_created": "2026-04-08T13:38:17.857Z",
@@ -2881,7 +2983,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 103
  },
  {
   "market_id": 100243,
@@ -2909,7 +3012,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 104
  },
  {
   "market_id": 100353,
@@ -2927,7 +3031,7 @@
   "date_created": "2026-04-08T14:19:04.984Z",
   "market_status": "OPEN",
   "pe_ratio": 15.19,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 252.375,
   "todays_low": 246.232,
   "sector": "Industrials",
@@ -2937,7 +3041,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 105
  },
  {
   "market_id": 100395,
@@ -2965,7 +3070,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 106
  },
  {
   "market_id": 100098,
@@ -2977,7 +3083,7 @@
   "usd_course": "198.66000000",
   "today_trend_percent": 0.234617,
   "prev_day_trend_percent": 0.52,
-  "market_cap": 1.5570289394e11,
+  "market_cap": 155702893940,
   "today_volume": 4987472,
   "prev_day_volume": 11790485.320469,
   "date_created": "2026-04-08T13:38:42.218Z",
@@ -2993,7 +3099,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 107
  },
  {
   "market_id": 100209,
@@ -3006,12 +3113,12 @@
   "today_trend_percent": -0.340048,
   "prev_day_trend_percent": -1.01,
   "market_cap": 84302446623,
-  "today_volume": 2.17074e6,
+  "today_volume": 2170740,
   "prev_day_volume": 2764234.594037,
   "date_created": "2026-04-08T14:06:24.804Z",
   "market_status": "OPEN",
   "pe_ratio": 100.24,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 195.972,
   "todays_low": 192.356,
   "sector": "Industrials",
@@ -3021,7 +3128,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 108
  },
  {
   "market_id": 100133,
@@ -3033,8 +3141,8 @@
   "usd_course": "192.77000000",
   "today_trend_percent": -0.276764,
   "prev_day_trend_percent": -0.45,
-  "market_cap": 2.6084511119e11,
-  "today_volume": 2.84784e6,
+  "market_cap": 260845111190,
+  "today_volume": 2847840,
   "prev_day_volume": 3549581.6948,
   "date_created": "2026-04-08T13:42:42.143Z",
   "market_status": "OPEN",
@@ -3049,7 +3157,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 109
  },
  {
   "market_id": 100087,
@@ -3077,7 +3186,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 110
  },
  {
   "market_id": 100109,
@@ -3089,8 +3199,8 @@
   "usd_course": "168.16500000",
   "today_trend_percent": -1.787122,
   "prev_day_trend_percent": -1.4,
-  "market_cap": 1.2812540286e11,
-  "today_volume": 3.84587e6,
+  "market_cap": 128125402860,
+  "today_volume": 3845870,
   "prev_day_volume": 7452163.218188,
   "date_created": "2026-04-08T13:40:27.700Z",
   "market_status": "OPEN",
@@ -3105,7 +3215,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 111
  },
  {
   "market_id": 100487,
@@ -3117,7 +3228,7 @@
   "usd_course": "167.73000000",
   "today_trend_percent": -0.154771,
   "prev_day_trend_percent": -0.3,
-  "market_cap": 6092526235.0,
+  "market_cap": 6092526235,
   "today_volume": 534102,
   "prev_day_volume": 833678.254843,
   "date_created": "2026-04-08T14:32:13.078Z",
@@ -3133,7 +3244,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 112
  },
  {
   "market_id": 100034,
@@ -3151,7 +3263,7 @@
   "date_created": "2026-04-08T13:30:33.984Z",
   "market_status": "OPEN",
   "pe_ratio": 36.35,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 166.653,
   "todays_low": 164.954,
   "sector": "Industrials",
@@ -3161,7 +3273,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 113
  },
  {
   "market_id": 100132,
@@ -3179,7 +3292,7 @@
   "date_created": "2026-04-08T13:42:36.698Z",
   "market_status": "OPEN",
   "pe_ratio": 12.86,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 140.654,
   "todays_low": 137.628,
   "sector": "Industrials",
@@ -3189,7 +3302,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 114
  },
  {
   "market_id": 100320,
@@ -3217,7 +3331,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 115
  },
  {
   "market_id": 100256,
@@ -3229,7 +3344,7 @@
   "usd_course": "112.51500000",
   "today_trend_percent": 0.576562,
   "prev_day_trend_percent": -0.75,
-  "market_cap": 5.02405e10,
+  "market_cap": 50240500000,
   "today_volume": 2320704,
   "prev_day_volume": 6291275.251717,
   "date_created": "2026-04-08T14:10:17.030Z",
@@ -3245,7 +3360,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 116
  },
  {
   "market_id": 100122,
@@ -3273,7 +3389,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 117
  },
  {
   "market_id": 100029,
@@ -3283,7 +3400,7 @@
   "display_full_name": "Stanley Black & Decker Inc",
   "trend_image_src": "https://static.nexo.com/charts2/stx-swk-1d.svg",
   "usd_course": "88.70500000",
-  "today_trend_percent": 0e-8,
+  "today_trend_percent": 0,
   "prev_day_trend_percent": -0.4,
   "market_cap": 13458603046,
   "today_volume": 794492,
@@ -3301,7 +3418,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 118
  },
  {
   "market_id": 100456,
@@ -3329,7 +3447,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 119
  },
  {
   "market_id": 100108,
@@ -3357,7 +3476,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 120
  },
  {
   "market_id": 100116,
@@ -3385,7 +3505,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 121
  },
  {
   "market_id": 100484,
@@ -3398,7 +3519,7 @@
   "today_trend_percent": -2.672816,
   "prev_day_trend_percent": -2.28,
   "market_cap": 21563593006,
-  "today_volume": 1.73798e6,
+  "today_volume": 1737980,
   "prev_day_volume": 1915555.962838,
   "date_created": "2026-04-08T14:31:58.512Z",
   "market_status": "OPEN",
@@ -3413,7 +3534,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 122
  },
  {
   "market_id": 100123,
@@ -3441,7 +3563,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 123
  },
  {
   "market_id": 100046,
@@ -3453,13 +3576,13 @@
   "usd_course": "72.80000000",
   "today_trend_percent": 0.33076,
   "prev_day_trend_percent": 0.16,
-  "market_cap": 6639491650.0,
+  "market_cap": 6639491650,
   "today_volume": 1494187,
   "prev_day_volume": 2907541.430924,
   "date_created": "2026-04-08T13:32:39.049Z",
   "market_status": "OPEN",
   "pe_ratio": 31.73,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 74.64,
   "todays_low": 71.484,
   "sector": "Industrials",
@@ -3469,7 +3592,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 124
  },
  {
   "market_id": 100091,
@@ -3487,7 +3611,7 @@
   "date_created": "2026-04-08T13:38:07.499Z",
   "market_status": "OPEN",
   "pe_ratio": 15.11,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 71.266,
   "todays_low": 70.071,
   "sector": "Industrials",
@@ -3497,7 +3621,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 125
  },
  {
   "market_id": 100024,
@@ -3515,7 +3640,7 @@
   "date_created": "2026-04-08T13:27:48.629Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 69.162,
   "todays_low": 63.831,
   "sector": "Industrials",
@@ -3525,7 +3650,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 126
  },
  {
   "market_id": 100436,
@@ -3553,7 +3679,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 127
  },
  {
   "market_id": 100058,
@@ -3565,7 +3692,7 @@
   "usd_course": "52.49500000",
   "today_trend_percent": -1.3808,
   "prev_day_trend_percent": -0.54,
-  "market_cap": 4.528809867e10,
+  "market_cap": 45288098670,
   "today_volume": 5036299,
   "prev_day_volume": 8492310.692308,
   "date_created": "2026-04-08T13:34:44.853Z",
@@ -3581,7 +3708,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 128
  },
  {
   "market_id": 100258,
@@ -3609,7 +3737,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 129
  },
  {
   "market_id": 100483,
@@ -3621,7 +3750,7 @@
   "usd_course": "47.11000000",
   "today_trend_percent": -2.896011,
   "prev_day_trend_percent": -2.99,
-  "market_cap": 2975974197.0,
+  "market_cap": 2975974197,
   "today_volume": 672861,
   "prev_day_volume": 2203903.891924,
   "date_created": "2026-04-08T14:31:53.730Z",
@@ -3637,7 +3766,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 130
  },
  {
   "market_id": 100276,
@@ -3649,7 +3779,7 @@
   "usd_course": "42.03000000",
   "today_trend_percent": -5.433682,
   "prev_day_trend_percent": -6.01,
-  "market_cap": 5793651526.0,
+  "market_cap": 5793651526,
   "today_volume": 1252189,
   "prev_day_volume": 2365686.120944,
   "date_created": "2026-04-08T14:12:26.775Z",
@@ -3665,7 +3795,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 131
  },
  {
   "market_id": 100172,
@@ -3693,7 +3824,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 132
  },
  {
   "market_id": 100406,
@@ -3705,13 +3837,13 @@
   "usd_course": "35.65500000",
   "today_trend_percent": -1.219005,
   "prev_day_trend_percent": -1.5,
-  "market_cap": 9245764295.0,
+  "market_cap": 9245764295,
   "today_volume": 1101659,
   "prev_day_volume": 2235172.210419,
   "date_created": "2026-04-08T14:24:37.838Z",
   "market_status": "OPEN",
   "pe_ratio": 21.21,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 36.32,
   "todays_low": 35.346,
   "sector": "Industrials",
@@ -3721,7 +3853,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 133
  },
  {
   "market_id": 100026,
@@ -3733,7 +3866,7 @@
   "usd_course": "25.72000000",
   "today_trend_percent": -3.271906,
   "prev_day_trend_percent": -2.6,
-  "market_cap": 2757921436.0,
+  "market_cap": 2757921436,
   "today_volume": 668004,
   "prev_day_volume": 1758581.043131,
   "date_created": "2026-04-08T13:28:48.759Z",
@@ -3749,7 +3882,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 134
  },
  {
   "market_id": 100247,
@@ -3777,7 +3911,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 135
  },
  {
   "market_id": 100038,
@@ -3805,7 +3940,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 136
  },
  {
   "market_id": 100260,
@@ -3815,15 +3951,15 @@
   "display_full_name": "American Airlines Group Inc",
   "trend_image_src": "https://static.nexo.com/charts2/stx-aal-1d.svg",
   "usd_course": "12.99500000",
-  "today_trend_percent": 0e-8,
+  "today_trend_percent": 0,
   "prev_day_trend_percent": 0.54,
-  "market_cap": 8565891166.0,
+  "market_cap": 8565891166,
   "today_volume": 32895476,
   "prev_day_volume": 84313032.176203,
   "date_created": "2026-04-08T14:11:08.564Z",
   "market_status": "OPEN",
   "pe_ratio": 44.44,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 13.09,
   "todays_low": 12.915,
   "sector": "Industrials",
@@ -3833,7 +3969,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 137
  },
  {
   "market_id": 100362,
@@ -3845,13 +3982,13 @@
   "usd_course": "6.08500000",
   "today_trend_percent": -1.457489,
   "prev_day_trend_percent": -1.78,
-  "market_cap": 6152082815.0,
+  "market_cap": 6152082815,
   "today_volume": 11602237,
   "prev_day_volume": 24092699.087789,
   "date_created": "2026-04-08T14:19:50.668Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 6.392,
   "todays_low": 6.046,
   "sector": "Industrials",
@@ -3861,7 +3998,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 138
  },
  {
   "market_id": 100440,
@@ -3873,13 +4011,13 @@
   "usd_course": "5.06000000",
   "today_trend_percent": -1.937984,
   "prev_day_trend_percent": -2.26,
-  "market_cap": 425732462.0,
+  "market_cap": 425732462,
   "today_volume": 314771,
   "prev_day_volume": 630567.535119,
   "date_created": "2026-04-08T14:27:53.009Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 5.245,
   "todays_low": 4.895,
   "sector": "Industrials",
@@ -3889,7 +4027,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 139
  },
  {
   "market_id": 100119,
@@ -3901,13 +4040,13 @@
   "usd_course": "4.12500000",
   "today_trend_percent": -4.181184,
   "prev_day_trend_percent": -3.86,
-  "market_cap": 1686620353.0,
+  "market_cap": 1686620353,
   "today_volume": 6845265,
   "prev_day_volume": 19966337.459009,
   "date_created": "2026-04-08T13:41:26.286Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 4.34,
   "todays_low": 4.085,
   "sector": "Industrials",
@@ -3917,7 +4056,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 140
  },
  {
   "market_id": 100106,
@@ -3930,7 +4070,7 @@
   "today_trend_percent": 0.663279,
   "prev_day_trend_percent": 0.24,
   "market_cap": 211350185132,
-  "today_volume": 1.36111e6,
+  "today_volume": 1361110,
   "prev_day_volume": 2189987.163499,
   "date_created": "2026-04-08T13:40:11.774Z",
   "market_status": "OPEN",
@@ -3945,7 +4085,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "one"
+  "status": "one",
+  "id": 141
  },
  {
   "market_id": 100383,
@@ -3973,7 +4114,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "bad"
+  "status": "bad",
+  "id": 142
  },
  {
   "market_id": 100315,
@@ -3985,7 +4127,7 @@
   "usd_course": "122.92500000",
   "today_trend_percent": -1.360134,
   "prev_day_trend_percent": -0.79,
-  "market_cap": 1.3106878159e11,
+  "market_cap": 131068781590,
   "today_volume": 3824649,
   "prev_day_volume": 5363821.051423,
   "date_created": "2026-04-08T14:15:58.032Z",
@@ -4001,7 +4143,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "one"
+  "status": "one",
+  "id": 143
  },
  {
   "market_id": 100210,
@@ -4029,7 +4172,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "bad"
+  "status": "bad",
+  "id": 144
  },
  {
   "market_id": 100057,
@@ -4057,7 +4201,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "bad"
+  "status": "bad",
+  "id": 145
  },
  {
   "market_id": 100390,
@@ -4085,7 +4230,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "bad"
+  "status": "bad",
+  "id": 146
  },
  {
   "market_id": 100350,
@@ -4097,13 +4243,13 @@
   "usd_course": "11.71500000",
   "today_trend_percent": -3.221809,
   "prev_day_trend_percent": -2.05,
-  "market_cap": 3171987393.0,
+  "market_cap": 3171987393,
   "today_volume": 4850715,
   "prev_day_volume": 7287343.632996,
   "date_created": "2026-04-08T14:18:49.845Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 12.375,
   "todays_low": 11.606,
   "sector": "Materials",
@@ -4113,7 +4259,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "AMEX",
-  "status": "one"
+  "status": "one",
+  "id": 147
  },
  {
   "market_id": 100493,
@@ -4125,13 +4272,13 @@
   "usd_course": "3.22500000",
   "today_trend_percent": -0.616332,
   "prev_day_trend_percent": -0.59,
-  "market_cap": 579659707.0,
+  "market_cap": 579659707,
   "today_volume": 649128,
   "prev_day_volume": 1094461.708,
   "date_created": "2026-04-08T14:32:44.222Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 3.286,
   "todays_low": 3.165,
   "sector": "Materials",
@@ -4141,7 +4288,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "AMEX",
-  "status": "bad"
+  "status": "bad",
+  "id": 148
  },
  {
   "market_id": 100073,
@@ -4169,7 +4317,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 149
  },
  {
   "market_id": 100017,
@@ -4181,7 +4330,7 @@
   "usd_course": "673.07000000",
   "today_trend_percent": -0.429749,
   "prev_day_trend_percent": -1.71,
-  "market_cap": 1.73818897238e12,
+  "market_cap": 1738188972380,
   "today_volume": 15139776,
   "prev_day_volume": 15927993.139952,
   "date_created": "2026-04-08T13:26:51.718Z",
@@ -4197,7 +4346,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 150
  },
  {
   "market_id": 100213,
@@ -4209,7 +4359,7 @@
   "usd_course": "653.09000000",
   "today_trend_percent": -1.324308,
   "prev_day_trend_percent": -1.08,
-  "market_cap": 2.4341203332e11,
+  "market_cap": 243412033320,
   "today_volume": 1616298,
   "prev_day_volume": 4200010.788368,
   "date_created": "2026-04-08T14:06:44.556Z",
@@ -4225,7 +4375,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 151
  },
  {
   "market_id": 100092,
@@ -4237,7 +4388,7 @@
   "usd_course": "574.07500000",
   "today_trend_percent": -2.410519,
   "prev_day_trend_percent": -2.15,
-  "market_cap": 3.741122221e11,
+  "market_cap": 374112222100,
   "today_volume": 4365872,
   "prev_day_volume": 9350696.496189,
   "date_created": "2026-04-08T13:38:13.201Z",
@@ -4253,7 +4404,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 152
  },
  {
   "market_id": 100031,
@@ -4271,7 +4423,7 @@
   "date_created": "2026-04-08T13:30:11.864Z",
   "market_status": "OPEN",
   "pe_ratio": 138.3,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 554.605,
   "todays_low": 541.712,
   "sector": "Technology",
@@ -4281,7 +4433,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 153
  },
  {
   "market_id": 100272,
@@ -4309,7 +4462,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 154
  },
  {
   "market_id": 100016,
@@ -4337,7 +4491,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 155
  },
  {
   "market_id": 100211,
@@ -4365,7 +4520,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 156
  },
  {
   "market_id": 100085,
@@ -4378,7 +4534,7 @@
   "today_trend_percent": 3.673279,
   "prev_day_trend_percent": 4.06,
   "market_cap": 331247572708,
-  "today_volume": 4.95773e6,
+  "today_volume": 4957730,
   "prev_day_volume": 6929255.368676,
   "date_created": "2026-04-08T13:37:35.202Z",
   "market_status": "OPEN",
@@ -4393,7 +4549,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 157
  },
  {
   "market_id": 100253,
@@ -4411,7 +4568,7 @@
   "date_created": "2026-04-08T14:10:03.729Z",
   "market_status": "OPEN",
   "pe_ratio": 538.1,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 397.68,
   "todays_low": 381.886,
   "sector": "Technology",
@@ -4421,7 +4578,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 158
  },
  {
   "market_id": 100114,
@@ -4434,7 +4592,7 @@
   "today_trend_percent": 1.820982,
   "prev_day_trend_percent": 1.97,
   "market_cap": 175727665882,
-  "today_volume": 1.87071e6,
+  "today_volume": 1870710,
   "prev_day_volume": 2853158.567609,
   "date_created": "2026-04-08T13:40:56.636Z",
   "market_status": "OPEN",
@@ -4449,7 +4607,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 159
  },
  {
   "market_id": 100136,
@@ -4461,13 +4620,13 @@
   "usd_course": "362.40500000",
   "today_trend_percent": -2.862618,
   "prev_day_trend_percent": -3.18,
-  "market_cap": 3.0679908e11,
+  "market_cap": 306799080000,
   "today_volume": 4432314,
   "prev_day_volume": 6294771.475813,
   "date_created": "2026-04-08T13:42:57.917Z",
   "market_status": "OPEN",
   "pe_ratio": 999.35,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 376.75,
   "todays_low": 356.263,
   "sector": "Technology",
@@ -4477,7 +4636,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 160
  },
  {
   "market_id": 100072,
@@ -4505,7 +4665,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 161
  },
  {
   "market_id": 100019,
@@ -4533,7 +4694,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 162
  },
  {
   "market_id": 100013,
@@ -4545,7 +4707,7 @@
   "usd_course": "335.90500000",
   "today_trend_percent": -0.09666,
   "prev_day_trend_percent": -0.45,
-  "market_cap": 4.91823866e12,
+  "market_cap": 4918238660000,
   "today_volume": 26820364,
   "prev_day_volume": 36700225.151252,
   "date_created": "2026-04-08T13:26:08.095Z",
@@ -4561,7 +4723,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 163
  },
  {
   "market_id": 100089,
@@ -4573,13 +4736,13 @@
   "usd_course": "333.72000000",
   "today_trend_percent": -1.092159,
   "prev_day_trend_percent": -1.31,
-  "market_cap": 1.19383992e11,
+  "market_cap": 119383992000,
   "today_volume": 1697219,
   "prev_day_volume": 4294078.768475,
   "date_created": "2026-04-08T13:37:55.776Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 341.565,
   "todays_low": 332.205,
   "sector": "Technology",
@@ -4589,7 +4752,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 164
  },
  {
   "market_id": 100248,
@@ -4602,12 +4766,12 @@
   "today_trend_percent": -3.49557,
   "prev_day_trend_percent": -4.36,
   "market_cap": 118909260027,
-  "today_volume": 1.97556e6,
+  "today_volume": 1975560,
   "prev_day_volume": 3033098.224556,
   "date_created": "2026-04-08T14:09:39.508Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 338,
   "todays_low": 313.881,
   "sector": "Technology",
@@ -4617,7 +4781,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 165
  },
  {
   "market_id": 100045,
@@ -4629,7 +4794,7 @@
   "usd_course": "312.66500000",
   "today_trend_percent": -0.920556,
   "prev_day_trend_percent": -0.28,
-  "market_cap": 3.2524472095e11,
+  "market_cap": 325244720950,
   "today_volume": 2041529,
   "prev_day_volume": 5330008.327908,
   "date_created": "2026-04-08T13:32:32.408Z",
@@ -4645,7 +4810,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 166
  },
  {
   "market_id": 100354,
@@ -4663,7 +4829,7 @@
   "date_created": "2026-04-08T14:19:09.409Z",
   "market_status": "OPEN",
   "pe_ratio": 24.4,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 327.193,
   "todays_low": 310.623,
   "sector": "Technology",
@@ -4673,7 +4839,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 167
  },
  {
   "market_id": 100127,
@@ -4685,13 +4852,13 @@
   "usd_course": "302.68500000",
   "today_trend_percent": -4.366439,
   "prev_day_trend_percent": -3.68,
-  "market_cap": 8.367960868e10,
+  "market_cap": 83679608680,
   "today_volume": 2595493,
   "prev_day_volume": 4122567.86638,
   "date_created": "2026-04-08T13:42:11.456Z",
   "market_status": "OPEN",
   "pe_ratio": 18.33,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 314.945,
   "todays_low": 300.703,
   "sector": "Technology",
@@ -4701,7 +4868,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 168
  },
  {
   "market_id": 100380,
@@ -4713,13 +4881,13 @@
   "usd_course": "296.75500000",
   "today_trend_percent": 2.133847,
   "prev_day_trend_percent": 1.47,
-  "market_cap": 5.092828713e10,
+  "market_cap": 50928287130,
   "today_volume": 2097636,
   "prev_day_volume": 4180655.637911,
   "date_created": "2026-04-08T14:22:27.335Z",
   "market_status": "OPEN",
   "pe_ratio": 137.83,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 301.925,
   "todays_low": 291.298,
   "sector": "Technology",
@@ -4729,7 +4897,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 169
  },
  {
   "market_id": 100446,
@@ -4741,13 +4910,13 @@
   "usd_course": "283.65000000",
   "today_trend_percent": 1.686712,
   "prev_day_trend_percent": 0.81,
-  "market_cap": 7.731933868e10,
+  "market_cap": 77319338680,
   "today_volume": 1063696,
   "prev_day_volume": 2095941.279198,
   "date_created": "2026-04-08T14:28:23.861Z",
   "market_status": "OPEN",
   "pe_ratio": 56.11,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 284.881,
   "todays_low": 279.019,
   "sector": "Technology",
@@ -4757,7 +4926,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 170
  },
  {
   "market_id": 100411,
@@ -4785,7 +4955,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 171
  },
  {
   "market_id": 100113,
@@ -4813,7 +4984,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 172
  },
  {
   "market_id": 100039,
@@ -4825,13 +4997,13 @@
   "usd_course": "249.90500000",
   "today_trend_percent": -0.333014,
   "prev_day_trend_percent": -1.23,
-  "market_cap": 1.00436325e11,
+  "market_cap": 100436325000,
   "today_volume": 2413093,
   "prev_day_volume": 5116531.05077,
   "date_created": "2026-04-08T13:31:07.157Z",
   "market_status": "OPEN",
   "pe_ratio": 13.89,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 253.249,
   "todays_low": 247.237,
   "sector": "Technology",
@@ -4841,7 +5013,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 173
  },
  {
   "market_id": 100099,
@@ -4869,7 +5042,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 174
  },
  {
   "market_id": 100366,
@@ -4887,7 +5061,7 @@
   "date_created": "2026-04-08T14:21:13.449Z",
   "market_status": "OPEN",
   "pe_ratio": 32.92,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 248.63,
   "todays_low": 238.761,
   "sector": "Technology",
@@ -4897,7 +5071,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 175
  },
  {
   "market_id": 100096,
@@ -4925,7 +5100,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 176
  },
  {
   "market_id": 100048,
@@ -4937,8 +5113,8 @@
   "usd_course": "239.23500000",
   "today_trend_percent": -2.394891,
   "prev_day_trend_percent": -1.91,
-  "market_cap": 1.9986555e11,
-  "today_volume": 6.85006e6,
+  "market_cap": 199865550000,
+  "today_volume": 6850060,
   "prev_day_volume": 16611316.130834,
   "date_created": "2026-04-08T13:32:59.917Z",
   "market_status": "OPEN",
@@ -4953,7 +5129,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 177
  },
  {
   "market_id": 100111,
@@ -4981,7 +5158,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 178
  },
  {
   "market_id": 100220,
@@ -4999,7 +5177,7 @@
   "date_created": "2026-04-08T14:07:16.452Z",
   "market_status": "OPEN",
   "pe_ratio": 477.19,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 238.46,
   "todays_low": 228.707,
   "sector": "Technology",
@@ -5009,7 +5187,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 179
  },
  {
   "market_id": 100050,
@@ -5037,7 +5216,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 180
  },
  {
   "market_id": 100018,
@@ -5049,7 +5229,7 @@
   "usd_course": "219.43500000",
   "today_trend_percent": 0.02279,
   "prev_day_trend_percent": 0.08,
-  "market_cap": 5.29640298e12,
+  "market_cap": 5296402980000,
   "today_volume": 68264384,
   "prev_day_volume": 94191263.927863,
   "date_created": "2026-04-08T13:26:59.399Z",
@@ -5065,7 +5245,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 181
  },
  {
   "market_id": 100100,
@@ -5083,7 +5264,7 @@
   "date_created": "2026-04-08T13:38:50.932Z",
   "market_status": "OPEN",
   "pe_ratio": 77.96,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 232.665,
   "todays_low": 218.544,
   "sector": "Technology",
@@ -5093,7 +5274,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 182
  },
  {
   "market_id": 100130,
@@ -5111,7 +5293,7 @@
   "date_created": "2026-04-08T13:42:25.649Z",
   "market_status": "OPEN",
   "pe_ratio": 37.31,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 214.832,
   "todays_low": 210.402,
   "sector": "Technology",
@@ -5121,7 +5303,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 183
  },
  {
   "market_id": 100023,
@@ -5139,7 +5322,7 @@
   "date_created": "2026-04-08T13:27:41.018Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 211.383,
   "todays_low": 206.27,
   "sector": "Technology",
@@ -5149,7 +5332,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 184
  },
  {
   "market_id": 100278,
@@ -5167,7 +5351,7 @@
   "date_created": "2026-04-08T14:12:35.804Z",
   "market_status": "OPEN",
   "pe_ratio": 62.22,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 204.099,
   "todays_low": 196.897,
   "sector": "Technology",
@@ -5177,7 +5361,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 185
  },
  {
   "market_id": 100454,
@@ -5195,7 +5380,7 @@
   "date_created": "2026-04-08T14:29:06.589Z",
   "market_status": "OPEN",
   "pe_ratio": 12.38,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 203.5,
   "todays_low": 192.56,
   "sector": "Technology",
@@ -5205,7 +5390,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 186
  },
  {
   "market_id": 100244,
@@ -5223,7 +5409,7 @@
   "date_created": "2026-04-08T14:09:21.068Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 194.274,
   "todays_low": 189.142,
   "sector": "Technology",
@@ -5233,7 +5419,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 187
  },
  {
   "market_id": 100077,
@@ -5261,7 +5448,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 188
  },
  {
   "market_id": 100102,
@@ -5279,7 +5467,7 @@
   "date_created": "2026-04-08T13:39:03.994Z",
   "market_status": "OPEN",
   "pe_ratio": 140.39,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 177.341,
   "todays_low": 172.078,
   "sector": "Technology",
@@ -5289,7 +5477,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 189
  },
  {
   "market_id": 100137,
@@ -5317,7 +5506,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 190
  },
  {
   "market_id": 100285,
@@ -5335,7 +5525,7 @@
   "date_created": "2026-04-08T14:13:08.950Z",
   "market_status": "OPEN",
   "pe_ratio": 33.76,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 154.5,
   "todays_low": 150.335,
   "sector": "Technology",
@@ -5345,7 +5535,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 191
  },
  {
   "market_id": 100500,
@@ -5373,7 +5564,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 192
  },
  {
   "market_id": 100090,
@@ -5385,7 +5577,7 @@
   "usd_course": "147.12500000",
   "today_trend_percent": -1.430389,
   "prev_day_trend_percent": -2.98,
-  "market_cap": 4.5534440424e11,
+  "market_cap": 455344404240,
   "today_volume": 18620256,
   "prev_day_volume": 27742388.027052,
   "date_created": "2026-04-08T13:38:01.400Z",
@@ -5401,7 +5593,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 193
  },
  {
   "market_id": 100171,
@@ -5413,13 +5606,13 @@
   "usd_course": "143.37000000",
   "today_trend_percent": -1.676782,
   "prev_day_trend_percent": -2.64,
-  "market_cap": 6882260170.0,
+  "market_cap": 6882260170,
   "today_volume": 347686,
   "prev_day_volume": 754622.191327,
   "date_created": "2026-04-08T13:46:42.383Z",
   "market_status": "OPEN",
   "pe_ratio": 16.75,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 147.25,
   "todays_low": 142.936,
   "sector": "Technology",
@@ -5429,7 +5622,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "bad"
+  "status": "bad",
+  "id": 194
  },
  {
   "market_id": 100121,
@@ -5441,13 +5635,13 @@
   "usd_course": "137.12500000",
   "today_trend_percent": -1.242347,
   "prev_day_trend_percent": -1.16,
-  "market_cap": 1.4315887114e11,
+  "market_cap": 143158871140,
   "today_volume": 5736034,
   "prev_day_volume": 9857742.901098,
   "date_created": "2026-04-08T13:41:41.699Z",
   "market_status": "OPEN",
   "pe_ratio": 85.72,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 139.789,
   "todays_low": 135.341,
   "sector": "Technology",
@@ -5457,7 +5651,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 195
  },
  {
   "market_id": 100061,
@@ -5475,7 +5670,7 @@
   "date_created": "2026-04-08T13:35:04.241Z",
   "market_status": "OPEN",
   "pe_ratio": 85.82,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 129.678,
   "todays_low": 126.823,
   "sector": "Technology",
@@ -5485,7 +5680,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 196
  },
  {
   "market_id": 100095,
@@ -5497,13 +5693,13 @@
   "usd_course": "108.89000000",
   "today_trend_percent": -1.211158,
   "prev_day_trend_percent": -1.13,
-  "market_cap": 4.3463077688e11,
+  "market_cap": 434630776880,
   "today_volume": 9832207,
   "prev_day_volume": 16160055.172094,
   "date_created": "2026-04-08T13:38:27.128Z",
   "market_status": "OPEN",
   "pe_ratio": 32.76,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 110.758,
   "todays_low": 108.097,
   "sector": "Technology",
@@ -5513,7 +5709,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 197
  },
  {
   "market_id": 100030,
@@ -5526,12 +5723,12 @@
   "today_trend_percent": -3.40096,
   "prev_day_trend_percent": -1.89,
   "market_cap": 575128252506,
-  "today_volume": 6.905422e7,
+  "today_volume": 69054220,
   "prev_day_volume": 149725985.118511,
   "date_created": "2026-04-08T13:30:03.940Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 112.538,
   "todays_low": 106.509,
   "sector": "Technology",
@@ -5541,7 +5738,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 198
  },
  {
   "market_id": 100251,
@@ -5559,7 +5757,7 @@
   "date_created": "2026-04-08T14:09:54.018Z",
   "market_status": "OPEN",
   "pe_ratio": 13.66,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 99.424,
   "todays_low": 95.909,
   "sector": "Technology",
@@ -5569,7 +5767,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "bad"
+  "status": "bad",
+  "id": 199
  },
  {
   "market_id": 100201,
@@ -5587,7 +5786,7 @@
   "date_created": "2026-04-08T14:05:43.428Z",
   "market_status": "OPEN",
   "pe_ratio": 8.26,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 92.963,
   "todays_low": 89.035,
   "sector": "Technology",
@@ -5597,7 +5796,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 200
  },
  {
   "market_id": 100344,
@@ -5615,7 +5815,7 @@
   "date_created": "2026-04-08T14:18:21.360Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 81.493,
   "todays_low": 76.046,
   "sector": "Technology",
@@ -5625,7 +5825,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "one",
+  "id": 201
  },
  {
   "market_id": 100324,
@@ -5637,13 +5838,13 @@
   "usd_course": "76.45000000",
   "today_trend_percent": -0.488122,
   "prev_day_trend_percent": 0.08,
-  "market_cap": 4.594279365e10,
+  "market_cap": 45942793650,
   "today_volume": 1802525,
   "prev_day_volume": 2820853.604414,
   "date_created": "2026-04-08T14:16:42.742Z",
   "market_status": "OPEN",
   "pe_ratio": 128.64,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 76.885,
   "todays_low": 75.874,
   "sector": "Technology",
@@ -5653,7 +5854,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 202
  },
  {
   "market_id": 100044,
@@ -5671,7 +5873,7 @@
   "date_created": "2026-04-08T13:31:48.649Z",
   "market_status": "OPEN",
   "pe_ratio": 40.02,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 71.309,
   "todays_low": 69.032,
   "sector": "Technology",
@@ -5681,7 +5883,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 203
  },
  {
   "market_id": 100252,
@@ -5693,7 +5896,7 @@
   "usd_course": "60.17000000",
   "today_trend_percent": -2.075026,
   "prev_day_trend_percent": -1.26,
-  "market_cap": 8.102845011e10,
+  "market_cap": 81028450110,
   "today_volume": 8516857,
   "prev_day_volume": 25822290.319147,
   "date_created": "2026-04-08T14:09:58.972Z",
@@ -5709,7 +5912,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 204
  },
  {
   "market_id": 100465,
@@ -5721,13 +5925,13 @@
   "usd_course": "49.53000000",
   "today_trend_percent": -0.542168,
   "prev_day_trend_percent": -1.49,
-  "market_cap": 8375736050.0,
-  "today_volume": 1.23496e6,
+  "market_cap": 8375736050,
+  "today_volume": 1234960,
   "prev_day_volume": 3975588.211503,
   "date_created": "2026-04-08T14:30:02.303Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 50.67,
   "todays_low": 49.255,
   "sector": "Technology",
@@ -5737,7 +5941,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 205
  },
  {
   "market_id": 100069,
@@ -5750,12 +5955,12 @@
   "today_trend_percent": -3.93613,
   "prev_day_trend_percent": -3.95,
   "market_cap": 26508553244,
-  "today_volume": 2.773771e7,
+  "today_volume": 27737710,
   "prev_day_volume": 62517147.960179,
   "date_created": "2026-04-08T13:35:50.094Z",
   "market_status": "OPEN",
   "pe_ratio": 12.07,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 41.14,
   "todays_low": 38.347,
   "sector": "Technology",
@@ -5765,7 +5970,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 206
  },
  {
   "market_id": 100469,
@@ -5778,12 +5984,12 @@
   "today_trend_percent": -5.123152,
   "prev_day_trend_percent": -4.77,
   "market_cap": 16343172363,
-  "today_volume": 1.34351e7,
+  "today_volume": 13435100,
   "prev_day_volume": 22494853.261153,
   "date_created": "2026-04-08T14:30:21.329Z",
   "market_status": "OPEN",
   "pe_ratio": 57.05,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 41.093,
   "todays_low": 37.781,
   "sector": "Technology",
@@ -5793,7 +5999,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 207
  },
  {
   "market_id": 100125,
@@ -5805,13 +6012,13 @@
   "usd_course": "34.65000000",
   "today_trend_percent": -4.742268,
   "prev_day_trend_percent": -4.05,
-  "market_cap": 4759850221.0,
+  "market_cap": 4759850221,
   "today_volume": 3796701,
   "prev_day_volume": 3913574.238167,
   "date_created": "2026-04-08T13:42:02.017Z",
   "market_status": "OPEN",
   "pe_ratio": 35.51,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 36.424,
   "todays_low": 34.218,
   "sector": "Technology",
@@ -5821,7 +6028,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 208
  },
  {
   "market_id": 100401,
@@ -5833,13 +6041,13 @@
   "usd_course": "34.21500000",
   "today_trend_percent": -5.925213,
   "prev_day_trend_percent": -5.31,
-  "market_cap": 2214926928.0,
-  "today_volume": 1.368e6,
+  "market_cap": 2214926928,
+  "today_volume": 1368000,
   "prev_day_volume": 1508270.593175,
   "date_created": "2026-04-08T14:24:11.723Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 36.723,
   "todays_low": 33.541,
   "sector": "Technology",
@@ -5849,7 +6057,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 209
  },
  {
   "market_id": 100482,
@@ -5861,13 +6070,13 @@
   "usd_course": "30.31000000",
   "today_trend_percent": -0.736859,
   "prev_day_trend_percent": -0.86,
-  "market_cap": 7623283184.0,
+  "market_cap": 7623283184,
   "today_volume": 3423547,
   "prev_day_volume": 5711756.545973,
   "date_created": "2026-04-08T14:31:46.536Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 30.75,
   "todays_low": 29.514,
   "sector": "Technology",
@@ -5877,7 +6086,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 210
  },
  {
   "market_id": 100439,
@@ -5889,7 +6099,7 @@
   "usd_course": "27.59000000",
   "today_trend_percent": 4.34947,
   "prev_day_trend_percent": 4.36,
-  "market_cap": 7499934561.0,
+  "market_cap": 7499934561,
   "today_volume": 12927455,
   "prev_day_volume": 24003363.687832,
   "date_created": "2026-04-08T14:27:47.046Z",
@@ -5905,7 +6115,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 211
  },
  {
   "market_id": 100322,
@@ -5917,13 +6128,13 @@
   "usd_course": "23.15000000",
   "today_trend_percent": -3.077245,
   "prev_day_trend_percent": -3.35,
-  "market_cap": 1192961339.0,
-  "today_volume": 1.2427e6,
+  "market_cap": 1192961339,
+  "today_volume": 1242700,
   "prev_day_volume": 2801335.003098,
   "date_created": "2026-04-08T14:16:34.031Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 24.374,
   "todays_low": 22.775,
   "sector": "Technology",
@@ -5933,7 +6144,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "AMEX",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 212
  },
  {
   "market_id": 100433,
@@ -5951,7 +6163,7 @@
   "date_created": "2026-04-08T14:27:15.277Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 23.531,
   "todays_low": 22.567,
   "sector": "Technology",
@@ -5961,7 +6173,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "bad"
+  "status": "bad",
+  "id": 213
  },
  {
   "market_id": 100200,
@@ -5974,12 +6187,12 @@
   "today_trend_percent": 1.011758,
   "prev_day_trend_percent": 0.49,
   "market_cap": 10369191524,
-  "today_volume": 8.6394e6,
+  "today_volume": 8639400,
   "prev_day_volume": 29471590.690092,
   "date_created": "2026-04-08T13:49:36.807Z",
   "market_status": "OPEN",
   "pe_ratio": 41.66,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 18.814,
   "todays_low": 18.257,
   "sector": "Technology",
@@ -5989,7 +6202,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 214
  },
  {
   "market_id": 100317,
@@ -6001,13 +6215,13 @@
   "usd_course": "16.76500000",
   "today_trend_percent": -5.788142,
   "prev_day_trend_percent": -5.29,
-  "market_cap": 6715595049.0,
+  "market_cap": 6715595049,
   "today_volume": 11344227,
   "prev_day_volume": 21450288.763242,
   "date_created": "2026-04-08T14:16:08.424Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 18.148,
   "todays_low": 16.557,
   "sector": "Technology",
@@ -6017,7 +6231,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 215
  },
  {
   "market_id": 100358,
@@ -6029,13 +6244,13 @@
   "usd_course": "16.29000000",
   "today_trend_percent": -4.625292,
   "prev_day_trend_percent": -4.5,
-  "market_cap": 6181777333.0,
+  "market_cap": 6181777333,
   "today_volume": 4371034,
   "prev_day_volume": 11176458.882493,
   "date_created": "2026-04-08T14:19:29.264Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 17.34,
   "todays_low": 16.128,
   "sector": "Technology",
@@ -6045,7 +6260,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 216
  },
  {
   "market_id": 100318,
@@ -6057,13 +6273,13 @@
   "usd_course": "15.37500000",
   "today_trend_percent": -4.23544,
   "prev_day_trend_percent": -3.97,
-  "market_cap": 5336962265.0,
+  "market_cap": 5336962265,
   "today_volume": 10953484,
   "prev_day_volume": 19529782.109374,
   "date_created": "2026-04-08T14:16:13.964Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 16.399,
   "todays_low": 15.095,
   "sector": "Technology",
@@ -6073,7 +6289,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 217
  },
  {
   "market_id": 100420,
@@ -6085,13 +6302,13 @@
   "usd_course": "13.51500000",
   "today_trend_percent": -2.664746,
   "prev_day_trend_percent": -2.07,
-  "market_cap": 7171098428.0,
+  "market_cap": 7171098428,
   "today_volume": 21708902,
   "prev_day_volume": 56205176.300465,
   "date_created": "2026-04-08T14:25:51.936Z",
   "market_status": "OPEN",
   "pe_ratio": 25.4,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 13.928,
   "todays_low": 13.335,
   "sector": "Technology",
@@ -6101,7 +6318,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 218
  },
  {
   "market_id": 100291,
@@ -6113,7 +6331,7 @@
   "usd_course": "9.68500000",
   "today_trend_percent": 0.155118,
   "prev_day_trend_percent": -0.26,
-  "market_cap": 953546000.0,
+  "market_cap": 953546000,
   "today_volume": 255682,
   "prev_day_volume": 718696.469212,
   "date_created": "2026-04-08T14:13:39.991Z",
@@ -6129,7 +6347,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 219
  },
  {
   "market_id": 100289,
@@ -6141,13 +6360,13 @@
   "usd_course": "8.81500000",
   "today_trend_percent": 1.613832,
   "prev_day_trend_percent": 1.32,
-  "market_cap": 2412530258.0,
+  "market_cap": 2412530258,
   "today_volume": 1941084,
   "prev_day_volume": 2229784.455875,
   "date_created": "2026-04-08T14:13:28.535Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 8.875,
   "todays_low": 8.655,
   "sector": "Technology",
@@ -6157,7 +6376,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 220
  },
  {
   "market_id": 100263,
@@ -6169,13 +6389,13 @@
   "usd_course": "8.02500000",
   "today_trend_percent": -0.372439,
   "prev_day_trend_percent": 0.69,
-  "market_cap": 4653637422.0,
+  "market_cap": 4653637422,
   "today_volume": 6404979,
   "prev_day_volume": 12779852.253788,
   "date_created": "2026-04-08T14:11:24.231Z",
   "market_status": "OPEN",
   "pe_ratio": 77.82,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 8.11,
   "todays_low": 7.805,
   "sector": "Technology",
@@ -6185,7 +6405,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 221
  },
  {
   "market_id": 100486,
@@ -6197,13 +6418,13 @@
   "usd_course": "6.89500000",
   "today_trend_percent": 1.099706,
   "prev_day_trend_percent": 3.43,
-  "market_cap": 227373436.0,
+  "market_cap": 227373436,
   "today_volume": 193686,
   "prev_day_volume": 359758.110465,
   "date_created": "2026-04-08T14:32:08.578Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 6.965,
   "todays_low": 6.671,
   "sector": "Technology",
@@ -6213,7 +6434,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 222
  },
  {
   "market_id": 100328,
@@ -6225,13 +6447,13 @@
   "usd_course": "6.78500000",
   "today_trend_percent": -4.638088,
   "prev_day_trend_percent": -4.37,
-  "market_cap": 1084271970.0,
+  "market_cap": 1084271970,
   "today_volume": 8512405,
   "prev_day_volume": 11807113.361247,
   "date_created": "2026-04-08T14:17:00.915Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 7.217,
   "todays_low": 6.755,
   "sector": "Technology",
@@ -6241,7 +6463,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 223
  },
  {
   "market_id": 100441,
@@ -6259,7 +6482,7 @@
   "date_created": "2026-04-08T14:27:57.517Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 6.54,
   "todays_low": 6.325,
   "sector": "Technology",
@@ -6269,7 +6492,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen"
+  "status": "virgen",
+  "id": 224
  },
  {
   "market_id": 100126,
@@ -6281,13 +6505,13 @@
   "usd_course": "5.90500000",
   "today_trend_percent": -2.315963,
   "prev_day_trend_percent": -1.5,
-  "market_cap": 2664672966.0,
-  "today_volume": 1.08905e7,
+  "market_cap": 2664672966,
+  "today_volume": 10890500,
   "prev_day_volume": 16687986.99205,
   "date_created": "2026-04-08T13:42:06.214Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 6.089,
   "todays_low": 5.835,
   "sector": "Technology",
@@ -6297,7 +6521,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "bad"
+  "status": "bad",
+  "id": 225
  },
  {
   "market_id": 100062,
@@ -6309,13 +6534,13 @@
   "usd_course": "5.56500000",
   "today_trend_percent": -2.624671,
   "prev_day_trend_percent": -2.04,
-  "market_cap": 9555267073.0,
+  "market_cap": 9555267073,
   "today_volume": 14113873,
   "prev_day_volume": 49720151.526976,
   "date_created": "2026-04-08T13:35:09.235Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 5.719,
   "todays_low": 5.525,
   "sector": "Technology",
@@ -6325,7 +6550,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "bad"
+  "status": "bad",
+  "id": 226
  },
  {
   "market_id": 100182,
@@ -6337,13 +6563,13 @@
   "usd_course": "5.08500000",
   "today_trend_percent": -7.629427,
   "prev_day_trend_percent": -7.89,
-  "market_cap": 847106910.0,
+  "market_cap": 847106910,
   "today_volume": 3945617,
   "prev_day_volume": 6340108.020438,
   "date_created": "2026-04-08T13:47:52.500Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 5.57,
   "todays_low": 5.002,
   "sector": "Technology",
@@ -6353,7 +6579,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "one"
+  "status": "one",
+  "id": 227
  },
  {
   "market_id": 100342,
@@ -6365,13 +6592,13 @@
   "usd_course": "2.78500000",
   "today_trend_percent": -1.763668,
   "prev_day_trend_percent": -1.94,
-  "market_cap": 1361764360.0,
+  "market_cap": 1361764360,
   "today_volume": 7874099,
   "prev_day_volume": 14406382.386774,
   "date_created": "2026-04-08T14:18:12.031Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 2.913,
   "todays_low": 2.765,
   "sector": "Technology",
@@ -6381,7 +6608,8 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "bad"
+  "status": "bad",
+  "id": 228
  },
  {
   "market_id": 100332,
@@ -6393,13 +6621,13 @@
   "usd_course": "0.76500000",
   "today_trend_percent": -1.923076,
   "prev_day_trend_percent": -0.69,
-  "market_cap": 168540612.0,
+  "market_cap": 168540612,
   "today_volume": 913542,
   "prev_day_volume": 2826083.930472,
   "date_created": "2026-04-08T14:17:20.284Z",
   "market_status": "OPEN",
   "pe_ratio": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": 0,
   "todays_high": 0.801,
   "todays_low": 0.742,
   "sector": "Technology",
@@ -6409,6 +6637,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "bad"
+  "status": "bad",
+  "id": 229
  }
 ]
