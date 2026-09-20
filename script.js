@@ -30,4 +30,7 @@ fetch("./data.json")
     .join("");
    main.appendChild(ul);
   });
+
+  const status = [...new Set(data.map((d) => d.status))];
+  console.log(status);
  });
