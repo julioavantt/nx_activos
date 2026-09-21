@@ -30,7 +30,7 @@ const action = () =>
      .filter((d) => d.sector === s)
      .map(
       (d) => `
-         <a target="_blank" href="//${d.website}"><li class="${d.status}">
+         <a target="_blank" href="stock.html"><!--a target="_blank" href="//${d.website}"--><li class="${d.status}">
            <h3>${d.display_full_name.length <= limit ? d.display_full_name : d.display_full_name.slice(0, limit - 3).trim() + "…"}</h3>
            <h4>${d.display_name}</h4>
          </li></a>
