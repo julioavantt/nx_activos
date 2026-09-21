@@ -3,15 +3,16 @@
  <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Dashboard Real JS - GOOG</title>
+  <title>Dashboard de Acciones - GOOG</title>
   <style>
+   /* Estilos generales con la estética oscura de tu diseño */
    * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
    }
    body {
-    background-color: #131722;
+    background-color: #131722; /* Fondo oscuro original de TradingView */
     color: #d1d4dc;
     font-family:
      -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -21,86 +22,82 @@
     color: #ffffff;
     margin-bottom: 20px;
     font-size: 24px;
+    font-weight: 600;
    }
+   /* Estructura de rejilla principal */
    .dashboard-container {
     display: grid;
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 3fr 1fr; /* 3 partes gráfico, 1 parte panel lateral */
     gap: 20px;
     height: calc(100vh - 80px);
     min-height: 600px;
    }
-   .chart-box {
+   /* Cajas contenedoras */
+   .panel-box {
     background-color: #1c2030;
     border-radius: 8px;
     border: 1px solid #2a2e39;
     overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    height: 100%;
    }
-   .chart-box iframe {
+   iframe {
     width: 100%;
     height: 100%;
     border: none;
    }
-   .metrics-sidebar {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-   }
-   /* Contenedor donde JS inyectará el widget de métricas */
-   #metrics-container {
-    background-color: #1c2030;
-    border-radius: 8px;
-    border: 1px solid #2a2e39;
-    flex: 1;
-    overflow: hidden;
-   }
+   /* Adaptabilidad para móviles */
    @media (max-width: 1024px) {
     .dashboard-container {
      grid-template-columns: 1fr;
      height: auto;
     }
-    .chart-box {
+    .panel-box {
      height: 500px;
-    }
-    #metrics-container {
-     height: 450px;
     }
    }
   </style>
  </head>
  <body>
-  <h1>Monitoreo de Mercado: Alphabet Inc. (GOOG)</h1>
-
+  <h1></h1>
   <div class="dashboard-container">
-   <!-- Gráfico embebido personalizado (Tu diseño con Koncorde) -->
-   <div class="chart-box">
-    <iframe src="https://tradingview.com" allowfullscreen></iframe>
-   </div>
-
-   <!-- El contenedor vacío para las métricas -->
-   <div id="metrics-container"></div>
+   <div id="chart-container" class="panel-box"></div>
+   <div id="metrics-container" class="panel-box"></div>
   </div>
+  <div class="tradingview-widget-container">
+   <div id="tradingview_chart"></div>
+   <script
+    type="text/javascript"
+    src="https://s3.tradingview.com/tv.js"
+   ></script>
+   <script type="text/javascript">
+    fetch("data.json")
+     .then((r) => r.json())
+     .then((d) => {
+      const params = new URLSearchParams(window.location.search);
+      const tickerParam = params.get("ticker");
+      const ticker = d.find((item) => item.display_name === tickerParam);
 
-  <!-- CARGA DE LIBRERÍAS Y SCRIPT JS REAL -->
-  <script type="text/javascript" src="https://tradingview.com"></script>
-  <script type="text/javascript">
-   // Instanciamos el widget lateral usando JavaScript puro
-   new TradingView.MediumWidget({
-    symbols: [["Google", "NASDAQ:GOOG|1D"]],
-    chartOnly: false,
-    width: "100%",
-    height: "100%",
-    locale: "es",
-    colorTheme: "dark",
-    gridLineColor: "rgba(42, 46, 57, 0.4)",
-    trendLineColor: "#2962FF",
-    fontColor: "#787B86",
-    underLineColor: "rgba(41, 98, 255, 0.3)",
-    underLineBottomColor: "rgba(41, 98, 255, 0)",
-    isTransparent: true,
-    autosize: true,
-    showVolume: true,
-    container_id: "metrics-container",
-   });
-  </script>
+      document.querySelector("h1").textContent =
+       `${ticker.display_full_name} (${ticker.display_name})`;
+
+      new TradingView.widget({
+       width: "100%",
+       height: 830,
+       symbol: `${ticker.exchange}:${tickerParam}`,
+       interval: "D",
+       timezone: "Etc/UTC",
+       theme: "dark",
+       style: "1",
+       locale: "es",
+       toolbar_bg: "#f1f3f6",
+       enable_publishing: false,
+       allow_symbol_change: true,
+       container_id: "chart-container",
+      });
+     });
+   </script>
+  </div>
  </body>
 </html>
