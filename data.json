@@ -1707,7 +1707,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen",
+  "status": "bad",
   "id": 59
  },
  {
@@ -2026,7 +2026,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen",
+  "status": "bad",
   "id": 70
  },
  {
@@ -2606,7 +2606,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 90
  },
  {
@@ -5709,7 +5709,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 197
  },
  {
