@@ -158,13 +158,13 @@ li {
  cursor: pointer;
 }
 
-li.bad {
+/* li.bad {
  background: black;
 }
 
 li.one {
  background: #b2f3f3;
-}
+} */
 
 /* Glow sutil en el borde al pasar el mouse */
 li:hover {

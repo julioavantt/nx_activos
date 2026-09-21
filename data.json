@@ -547,7 +547,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 19
  },
  {
@@ -576,7 +576,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 20
  },
  {
@@ -634,7 +634,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 22
  },
  {
@@ -837,7 +837,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 29
  },
  {
@@ -866,7 +866,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 30
  },
  {
@@ -924,7 +924,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 32
  },
  {
@@ -1417,7 +1417,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "one",
   "id": 49
  },
  {
@@ -1446,7 +1446,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 50
  },
  {
@@ -1504,7 +1504,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "one",
   "id": 52
  },
  {
@@ -1736,7 +1736,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "one",
   "id": 60
  },
  {
@@ -1794,7 +1794,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "one",
   "id": 62
  },
  {
@@ -1997,7 +1997,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "BATS",
-  "status": "virgen",
+  "status": "one",
   "id": 69
  },
  {
@@ -2084,7 +2084,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "one",
   "id": 72
  },
  {
@@ -2287,7 +2287,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen",
+  "status": "one",
   "id": 79
  },
  {
@@ -2316,7 +2316,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen",
+  "status": "one",
   "id": 80
  },
  {
@@ -2374,7 +2374,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "ARCA",
-  "status": "virgen",
+  "status": "one",
   "id": 82
  },
  {
@@ -2577,7 +2577,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 89
  },
  {
@@ -2664,7 +2664,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "one",
   "id": 92
  },
  {
@@ -2867,7 +2867,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "one",
   "id": 99
  },
  {
@@ -2954,7 +2954,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 102
  },
  {
@@ -3157,7 +3157,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 109
  },
  {
@@ -3186,7 +3186,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 110
  },
  {
@@ -3244,7 +3244,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 112
  },
  {
@@ -3447,7 +3447,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "one",
   "id": 119
  },
  {
@@ -3476,7 +3476,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 120
  },
  {
@@ -3534,7 +3534,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 122
  },
  {
@@ -3737,7 +3737,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 129
  },
  {
@@ -3766,7 +3766,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 130
  },
  {
@@ -3824,7 +3824,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 132
  },
  {
@@ -4027,7 +4027,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 139
  },
  {
@@ -4056,7 +4056,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 140
  },
  {
@@ -4346,7 +4346,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 150
  },
  {
@@ -4404,7 +4404,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "one",
   "id": 152
  },
  {
@@ -4491,7 +4491,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "one",
+  "status": "bad",
   "id": 155
  },
  {
@@ -4607,7 +4607,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 159
  },
  {
@@ -4723,7 +4723,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "one",
+  "status": "bad",
   "id": 163
  },
  {
@@ -4897,7 +4897,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 169
  },
  {
@@ -4926,7 +4926,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 170
  },
  {
@@ -4984,7 +4984,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 172
  },
  {
@@ -5187,7 +5187,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "one",
   "id": 179
  },
  {
@@ -5216,7 +5216,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 180
  },
  {
@@ -5274,7 +5274,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 182
  },
  {
@@ -5564,7 +5564,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 192
  },
  {
@@ -5796,7 +5796,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 200
  },
  {
@@ -5854,7 +5854,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 202
  },
  {
@@ -6057,7 +6057,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 209
  },
  {
@@ -6086,7 +6086,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "one",
   "id": 210
  },
  {
@@ -6144,7 +6144,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "AMEX",
-  "status": "virgen",
+  "status": "bad",
   "id": 212
  },
  {
@@ -6347,7 +6347,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NYSE",
-  "status": "virgen",
+  "status": "bad",
   "id": 219
  },
  {
@@ -6434,7 +6434,7 @@
   "trade_date": null,
   "availability": null,
   "exchange": "NASDAQ",
-  "status": "virgen",
+  "status": "bad",
   "id": 222
  },
  {
